@@ -1,0 +1,25 @@
+.welcome {
+  text-align: center;
+  font-family: fantasy;
+  color: blue;
+}
+
+.teaser {
+  font-size: 20px;
+  font-style: italic;
+  text-align: center;
+}
+
+.tropical {
+  color: #f7325e;
+  font-family: fantasy;
+}
+
+.text {
+  color: #f7325e;
+}
+
+.img {
+  height: 300px;
+  width: 500px;
+}
