@@ -15,8 +15,18 @@
   font-family: fantasy;
 }
 
+.popular {
+  color: black;
+  font-family: monospace;
+}
+
+.subtitle {
+  font-size: 30px;
+  font-style: oblique;
+}
+
 .text {
-  color: #f7325e;
+  color: #7dc410;
 }
 
 .img {
